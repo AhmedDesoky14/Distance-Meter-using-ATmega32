@@ -2,6 +2,8 @@
 
 This project is a **Distance Meter** developed using the **ATmega32 Microcontroller** in combination with the **HC-SR04 Ultrasonic Sensor** and an **LCD** to display the measured distance. The HC-SR04 sensor uses ultrasonic waves to measure the distance to an object, and the result is displayed on the LCD in real-time.
 
+This project is also simulated on Proteus simulator.
+
 ---
 
 ## Features
